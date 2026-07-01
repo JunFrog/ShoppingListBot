@@ -1,0 +1,10 @@
+.env
+data.json
+*.db
+*.sqlite
+*.sqlite3
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
